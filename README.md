@@ -1,2 +1,1 @@
-# Wheather-App
 # Weather-App
